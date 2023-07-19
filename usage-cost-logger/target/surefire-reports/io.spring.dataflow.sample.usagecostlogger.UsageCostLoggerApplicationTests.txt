@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.spring.dataflow.sample.usagecostlogger.UsageCostLoggerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.754 s - in io.spring.dataflow.sample.usagecostlogger.UsageCostLoggerApplicationTests
