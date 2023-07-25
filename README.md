@@ -7,11 +7,6 @@ Use the appropriate binder profiles `kafka` (active by default) or `rabbit` to b
 ```bash
 $./mvnw clean package -Pkafka
 ```
-or
-
-```bash
-$./mvnw clean package -Pkafka
-```
 
 ## Building the distribution zip file
 
