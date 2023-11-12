@@ -3,7 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.spring.dataflow.sample</groupId>
-    <artifactId>usage-cost-stream-sample</artifactId>
+    <artifactId>CSVFormatter</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <parent>
@@ -12,11 +12,11 @@
         <version>2.4.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-	
+
     <modules>
-        <module>usage-cost-logger</module>
-        <module>usage-cost-processor</module>
-        <module>usage-detail-sender</module>
+        <module>usage-sink</module>
+        <module>usage-processor</module>
+        <module>usage-source</module>
     </modules>
     <properties>
         <docker.org>springcloudstream</docker.org>
