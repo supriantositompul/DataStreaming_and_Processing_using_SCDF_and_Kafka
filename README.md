@@ -1,4 +1,5 @@
-# Standalone Stream Sample
+# Standalone Stream
+Research and development of Data Streaming and Processing using Spring Cloud Data Flow and Kafka.
 
 ## Building the apps
 
@@ -14,5 +15,3 @@ $./mvnw clean package -Pkafka
 $./mvnw package -Pdist
 
 ```
-
-This must be run from this directory and will build `dist/usage-cost-stream-sample.zip` 
