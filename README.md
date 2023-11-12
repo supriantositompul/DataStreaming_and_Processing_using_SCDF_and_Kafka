@@ -1,4 +1,4 @@
-# Standalone Stream
+# Standalone Stream Processing
 Research and development of Data Streaming and Processing using Spring Cloud Data Flow and Kafka.
 
 ## Building the apps
